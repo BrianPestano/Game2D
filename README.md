@@ -1,2 +1,2 @@
-# VideoJuego2D
-Un Juego en 2D que realice como proyecto final de la asignatura de dispositivos móviles
+# Game2D
+A 2D game that he made as a final project for the mobile devices subject
